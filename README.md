@@ -18,7 +18,21 @@ samples, guidance on mobile development, and a full API reference.
 <b>some screenshots of this simple project here!</b>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/40542971/85968946-8a315580-b9f0-11ea-9cd1-d86892c3cb6e.png" width="350" title="hover text">
-  <img src="https://user-images.githubusercontent.com/40542971/85968944-89002880-b9f0-11ea-8746-c0505e305114.png" width="350" alt="accessibility text">
+<p>
+<br>
+<p align="center" width = 80%>
+    <image src= "https://user-images.githubusercontent.com/40542971/85973186-33317d80-b9fc-11ea-823f-c0a4e681ff3f.png" width="350"/>
+  
+  </p>
+  <Br>
+  <p align="center" width = 80%>
+    <image src= "https://user-images.githubusercontent.com/40542971/85973192-33ca1400-b9fc-11ea-94ae-fad105b4e266.png" width="350"/>
+   <image src= "https://user-images.githubusercontent.com/40542971/85973193-3462aa80-b9fc-11ea-9951-f5b4fd226c59.png" width="350"/>
+  </p>
+  <br>
+  <p align="center" width = 80%>
+    <image src= "https://user-images.githubusercontent.com/40542971/85973184-3298e700-b9fc-11ea-81cd-68810eddc8a1.png" width="350"/>
+   <image src= "https://user-images.githubusercontent.com/40542971/85973182-3167ba00-b9fc-11ea-919a-0c13bcf9b72e.png" width="350"/>
+  </p>
+  <br>
 </p>
